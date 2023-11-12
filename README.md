@@ -3,7 +3,7 @@
 
 https://github.com/AnonymousBazinga/ChessBot/assets/98576062/44426755-32ae-44ab-a290-ae15b06b2a07
 
-**The video has been cut to remove the 1-2 seconds that the computer takes to calculate before playing its next move
+**The video has been cut to remove the ~1 second that the computer sometimes takes to calculate before playing its next move.
 ## Background
 This is my senior year CS project, where I built a chess engine that is capable of playing at ~1100 ELO (chess.com).
 
