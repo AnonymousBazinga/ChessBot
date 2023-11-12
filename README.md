@@ -5,7 +5,8 @@ https://github.com/AnonymousBazinga/ChessBot/assets/98576062/44426755-32ae-44ab-
 
 **The video has been cut to remove the 1-2 seconds that the computer takes to calculate before playing its next move
 ## Background
-This is my senior year CS project, where I built a chess engine that is capable of playing at ~1100 ELO (chess.com).\n
+This is my senior year CS project, where I built a chess engine that is capable of playing at ~1100 ELO (chess.com).
+
 We also created a chess variant to play against the bot, where there are no pawns and the white and black pieces can be places anywhere in the first and last two ranks respectively.
 
 I worked with Tarun and Vignesh on this project. All credit goes to them for the tkinter user interface.
