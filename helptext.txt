@@ -1,0 +1,14 @@
+Welcome to StonkFish, our computer project chess engine
+Here are some points to help you use this program.
+
+1. The user always plays as black
+
+2. Moves are made upon clicking 2 buttons - 
+the piece you want to move (1) and the position you wish to move it to (2)
+
+3. If an illegal move is made, the computer disallows it 
+and the user must enter the move again
+
+4. In the variant, note that the black pieces can be placed anywhere in the bottom 2 rows
+ and the white pieces in the top 2 rows
+
