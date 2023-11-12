@@ -21,4 +21,6 @@ and the user must enter a new, legal move again
 
 ## Issues
 1. Due to some bugs in the tkinter library, the colours and design of the GUI/ chess board does not show up properly on a mac computer.
-2. The code is not formatted well. Since this was the first big project we took on, a lot of learning happened along the way inevitably destroying the formatting and code quality. I apologize in advance
+2. En Passent cannot be played.
+3. Pawn auto-promotes to a queen when it reaches the 8th rank.
+4. The code is not formatted well. Since this was the first big project we took on, a lot of learning happened along the way inevitably destroying the formatting and code quality. I apologize in advance
