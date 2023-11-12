@@ -19,4 +19,6 @@ and the user must enter a new, legal move again
 4. In the variant, note that the black pieces can be placed anywhere in the bottom 2 rows
  and the white pieces in the top 2 rows
 
-**NOTE**: Due to some bugs in the tkinter library, the colours and design of the GUI/ chess board does not show up properly on a mac computer.
+## Issues
+1. Due to some bugs in the tkinter library, the colours and design of the GUI/ chess board does not show up properly on a mac computer.
+2. The code is not formatted well. Since this was the first big project we took on, a lot of learning happened along the way inevitably destroying the formatting and code quality. I apologize in advance
